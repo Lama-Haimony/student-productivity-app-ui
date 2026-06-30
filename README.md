@@ -43,7 +43,7 @@ The goal of this project was to practice UI/UX design principles by creating a c
 
 ### Calendar
 
-![Calendar](screenshots/calendar.png)
+![Calendar](screenshots/calender.png)
 
 ### Messages
 
@@ -55,4 +55,4 @@ The goal of this project was to practice UI/UX design principles by creating a c
 
 ## Prototype
 
-[View the Figma Prototype]([https://www.figma.com/proto/LZVKpGGf1NIGityk6z6nyL/Mobile-app?node-id=70-8472&p=f&t=9OXh09kBQ5m04TMS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2])
+[View the Figma Prototype](https://www.figma.com/proto/LZVKpGGf1NIGityk6z6nyL/Mobile-app?node-id=0-1&t=FakMCmgOcVfMPG3p-1)
