@@ -31,11 +31,11 @@ The goal of this project was to practice UI/UX design principles by creating a c
 
 ### Onboarding
 
-![Onboarding 1](screenshots/onboarding-1.png)
+![Onboarding 1](screenshots/onboarding1.png)
 
-![Onboarding 2](screenshots/onboarding-2.png)
+![Onboarding 2](screenshots/onboarding2.png)
 
-![Onboarding 3](screenshots/onboarding-3.png)
+![Onboarding 3](screenshots/onboarding3.png)
 
 ### Home
 
@@ -51,8 +51,8 @@ The goal of this project was to practice UI/UX design principles by creating a c
 
 ### Settings
 
-![Settings](screenshots/settings.png
+![Settings](screenshots/settings.png)
 
 ## Prototype
 
-[View the Figma Prototype]((https://www.figma.com/proto/LZVKpGGf1NIGityk6z6nyL/Mobile-app?node-id=70-8472&p=f&t=9OXh09kBQ5m04TMS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2))
+[View the Figma Prototype]([https://www.figma.com/proto/LZVKpGGf1NIGityk6z6nyL/Mobile-app?node-id=70-8472&p=f&t=9OXh09kBQ5m04TMS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2])
